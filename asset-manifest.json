@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tipcalculator/static/css/main.6423a766.chunk.css",
+    "main.js": "/tipcalculator/static/js/main.d6ebe7f8.chunk.js",
+    "main.js.map": "/tipcalculator/static/js/main.d6ebe7f8.chunk.js.map",
+    "runtime-main.js": "/tipcalculator/static/js/runtime-main.f4c69f2b.js",
+    "runtime-main.js.map": "/tipcalculator/static/js/runtime-main.f4c69f2b.js.map",
+    "static/js/2.21d50e95.chunk.js": "/tipcalculator/static/js/2.21d50e95.chunk.js",
+    "static/js/2.21d50e95.chunk.js.map": "/tipcalculator/static/js/2.21d50e95.chunk.js.map",
+    "index.html": "/tipcalculator/index.html",
+    "static/css/main.6423a766.chunk.css.map": "/tipcalculator/static/css/main.6423a766.chunk.css.map",
+    "static/js/2.21d50e95.chunk.js.LICENSE.txt": "/tipcalculator/static/js/2.21d50e95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4c69f2b.js",
+    "static/js/2.21d50e95.chunk.js",
+    "static/css/main.6423a766.chunk.css",
+    "static/js/main.d6ebe7f8.chunk.js"
+  ]
+}
